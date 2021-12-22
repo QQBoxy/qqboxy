@@ -39,3 +39,6 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qqboxy&theme=monokai" />
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qqboxy&theme=monokai" />
 </p>
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=qqboxy&theme=onedark&column=7" />
+</p>
