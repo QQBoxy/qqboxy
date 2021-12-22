@@ -29,6 +29,9 @@
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 <p align="center">
+  AutoCAD、Solidworks、Creo(Pro/E)、Inventor、SolidEdge
+</p>
+<p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qqboxy&theme=monokai" />
 </p>
 <p align="center">
