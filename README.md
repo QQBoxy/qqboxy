@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boxy Huang</h1>
 <h3 align="center">A warm developer from Taiwan</h3>
 <p align="center">- 📝 Blog: https://blog.qqboxy.com</p>
-<p align="center">react、c、c++、c#、html5、java、javascript、mongodb、mysql、sqlite、php、nodejs、nginx、linux、webpack、express</p>
+<!--<p align="center">react、c、c++、c#、html5、java、javascript、mongodb、mysql、sqlite、php、nodejs、nginx、linux、webpack、express</p>-->
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
