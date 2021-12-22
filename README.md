@@ -3,4 +3,6 @@
 <p align="center">- 📝 Blog: https://blog.qqboxy.com</p>
 <p align="center">react、c、cplusplus、csharp、html5、java、javascript、mongodb、mysql、sqlite、php、nodejs、nginx、linux、webpack、express</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=qqboxy&theme=onedark&column=7" />
+</p>
